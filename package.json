@@ -1,0 +1,19 @@
+{
+  "name": "investingcom-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skxrx",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "playwright": "^1.17.1",
+    "playwright-extra": "^1.0.1",
+    "prettier": "^2.5.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
